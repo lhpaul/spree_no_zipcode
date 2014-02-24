@@ -9,7 +9,7 @@ Installation
 Add spree_no_zipcode to your Gemfile:
 
 ```ruby
-gem 'spree_no_zipcode'
+gem 'spree_no_zipcode', :git => 'https://github.com/lhpaul/spree_no_zipcode'
 ```
 
 Bundle your dependencies and run the installation generator:
